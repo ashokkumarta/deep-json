@@ -1,0 +1,8 @@
+ash\aem\utils\api\DeepJsonUtil.class
+ash\aem\utils\components\DeepComponentProcessor.class
+ash\aem\utils\util\DeepJsonFilter.class
+ash\aem\utils\components\DeepComponent.class
+ash\aem\utils\components\impl\DeepGenericComponent.class
+ash\aem\utils\components\impl\DeepTeaser.class
+ash\aem\utils\util\DeepJsonCreator.class
+ash\aem\utils\components\impl\DeepMultiRef.class

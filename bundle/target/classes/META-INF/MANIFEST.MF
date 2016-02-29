@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1456731744911
+Build-Jdk: 1.8.0_51
+Built-By: 505600
+Bundle-ClassPath: .,org.apache.sling.commons.json-2.0.8.jar
+Bundle-Description: Utility to expose nested content as a json service
+Bundle-ManifestVersion: 2
+Bundle-Name: Deep json Util Bundle
+Bundle-SymbolicName: com.directv.cms.DComJsonUtil-bundle
+Bundle-Version: 0.1.0
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: org.apache.sling.commons.json
+Embedded-Artifacts: org.apache.sling.commons.json-2.0.8.jar;g="org.apach
+ e.sling";a="org.apache.sling.commons.json";v="2.0.8"
+Export-Package: ash.aem.utils.api;uses:="ash.aem.utils.util,org.apache.s
+ ling.api.resource";version="0.1.0",ash.aem.utils.components;uses:="org.
+ apache.sling.api.resource";version="0.1.0",ash.aem.utils.util;uses:="or
+ g.apache.sling.api.resource,ash.aem.utils.components";version="0.1.0"
+Import-Package: javax.jcr;version="[2.0,3)",javax.jcr.nodetype;version="
+ [2.0,3)",org.apache.sling.api.request;version="[2.1,3)",org.apache.slin
+ g.api.resource;version="[2.1,3)"
+Tool: Bnd-1.50.0

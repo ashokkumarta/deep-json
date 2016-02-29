@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Deep Json Util content</comment>
+<entry key="createdBy">505600</entry>
+<entry key="name">deep-json-content</entry>
+<entry key="created">2016-02-28T23:42:25.790-0800</entry>
+<entry key="groupId">ashok.aem.utils</entry>
+<entry key="version">0.1</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">DTV</entry>
+<entry key="description">Utility to expose nested content as a json service</entry>
+<entry key="artifactId">deep-json-content</entry>
+<entry key="path">/etc/packages/DTV/deep-json-content.zip</entry>
+</properties>
